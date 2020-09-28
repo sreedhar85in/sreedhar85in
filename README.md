@@ -6,7 +6,18 @@
 
 ### Hi there 👋
 
+I love to contribute to open source projects in Java Language and support the open source ecosystem.  I have a passion for learning and sharing my knowledge with others. Current Learning includes Datastructures and Algorithms, Microservice Architecture, & Springboot.
 
+I have worked on the following highlighted projects recently,
+
+- Development of Springboot application for adding users in Azure Active Directory using microsoft graph API. 
+- Development of Rest APIs to download AppleWallet using Jpasskit java library.
+- Development of Springboot application to process Mobile Push Notification in a JMS architecture using Kumulous Platform 
+
+<details>
+ <summary><strong>My Open Source Contributions</strong></summary>
+ <a href="https://github.com/cactuz/cors-tester-from-browser/graphs/contributors"><img width="400" src="https://user-images.githubusercontent.com/38508108/94491904-9c1bd200-0245-11eb-91b5-a290b7fb7899.png?raw=true"></a> 
+</details>
 
 
 
