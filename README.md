@@ -24,7 +24,7 @@ I have worked on the following highlighted projects recently,
  <a href="https://github.com/cactuz/cors-tester-from-browser/graphs/contributors"><img width="400" src="https://user-images.githubusercontent.com/38508108/94491904-9c1bd200-0245-11eb-91b5-a290b7fb7899.png?raw=true"></a> 
 </details>
 
-
+![Sreedhar's Github Stats](https://github-readme-stats.vercel.app/api?username=sreedhar85in&show_icons=true&theme=radical)
 
 
 <!--
