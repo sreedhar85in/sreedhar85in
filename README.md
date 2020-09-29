@@ -4,9 +4,14 @@
 <a href="https://stackoverflow.com/users/3253199/sreedhar-s"><img height="30" src="https://user-images.githubusercontent.com/38508108/94491575-fbc5ad80-0244-11eb-84bc-bd7bd901c1e8.png?raw=true"></a>  
 </p>
 
-### Hi there 👋
+<!--### Hi there 👋-->
+<h2 align="center">Hello there! My name is Sreedhar Sivan. 👋 </h2>
 
 I love to contribute to open source projects in Java Language and support the open source ecosystem.  I have a passion for learning and sharing my knowledge with others. Current Learning includes Datastructures and Algorithms, Microservice Architecture, & Springboot.
+
+### ðŸ’¼ Where i am currently working at/as
+- [Tranxactor: Java Developer](https://www.tranxactor.com/) ðŸ’¼ 
+
 
 I have worked on the following highlighted projects recently,
 
