@@ -11,7 +11,7 @@
 I love to contribute to open source projects in Java Language and support the open source ecosystem.  I have a passion for learning and sharing my knowledge with others. Current Learning includes Datastructures and Algorithms, Microservice Architecture, & Springboot.
 
 ### 💼 Where i am currently working at/as
-- [Tranxactor: Java Developer](https://www.tranxactor.com/) 💼
+- [Datacom: Integration Developer](https://datacom.com/) 💼
 
 
 I have worked on the following highlighted projects recently,
